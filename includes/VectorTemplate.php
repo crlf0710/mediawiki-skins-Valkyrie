@@ -475,7 +475,6 @@ class VectorTemplate extends BaseTemplate {
 			if ( $setLabelToSelected ) {
 				if ( isset( $item['class'] ) && stripos( $item['class'], 'selected' ) !== false ) {
 					$props['label'] = $item['text'];
-					break;
 				}
 			}
 		}
