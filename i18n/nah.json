@@ -6,16 +6,16 @@
 			"Akapochtli"
 		]
 	},
-	"vector-action-addsection": "Xicahxilti netlahtōlpepechtiliztli",
-	"vector-action-delete": "Xicpolo",
-	"vector-action-move": "Xiczaca",
-	"vector-action-protect": "Xicpiya",
-	"vector-action-undelete": "Xicmāquīxti",
-	"vector-action-unprotect": "Xicpatla tlapiyaliztli",
-	"vector-view-create": "Ticchihuaz",
-	"vector-view-edit": "Ticpatlaz",
-	"vector-view-history": "Tiquittaz tlahtollotl",
-	"vector-view-view": "Tamapohuaz",
-	"vector-view-viewsource": "Xiquitta tzintiliztli",
-	"vector-more-actions": "Ocachi"
+	"valkyrie-action-addsection": "Xicahxilti netlahtōlpepechtiliztli",
+	"valkyrie-action-delete": "Xicpolo",
+	"valkyrie-action-move": "Xiczaca",
+	"valkyrie-action-protect": "Xicpiya",
+	"valkyrie-action-undelete": "Xicmāquīxti",
+	"valkyrie-action-unprotect": "Xicpatla tlapiyaliztli",
+	"valkyrie-view-create": "Ticchihuaz",
+	"valkyrie-view-edit": "Ticpatlaz",
+	"valkyrie-view-history": "Tiquittaz tlahtollotl",
+	"valkyrie-view-view": "Tamapohuaz",
+	"valkyrie-view-viewsource": "Xiquitta tzintiliztli",
+	"valkyrie-more-actions": "Ocachi"
 }

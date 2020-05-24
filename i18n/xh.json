@@ -4,10 +4,10 @@
 			"Nomden"
 		]
 	},
-	"vector-action-addsection": "Faka isihloko",
-	"vector-action-move": "Susa",
-	"vector-view-edit": "Tshintsha",
-	"vector-view-history": "Khawujonge imbali yeli phepha",
-	"vector-view-view": "Funda",
-	"vector-more-actions": "Veza ezinye iinkcukacha"
+	"valkyrie-action-addsection": "Faka isihloko",
+	"valkyrie-action-move": "Susa",
+	"valkyrie-view-edit": "Tshintsha",
+	"valkyrie-view-history": "Khawujonge imbali yeli phepha",
+	"valkyrie-view-view": "Funda",
+	"valkyrie-more-actions": "Veza ezinye iinkcukacha"
 }

@@ -1,44 +1,44 @@
 {
-	"name": "Vector",
+	"name": "Valkyrie",
 	"author": [
 		"Trevor Parscal",
 		"Roan Kattouw",
 		"..."
 	],
-	"url": "https://www.mediawiki.org/wiki/Skin:Vector",
-	"descriptionmsg": "vector-skin-desc",
-	"namemsg": "skinname-vector",
+	"url": "https://www.mediawiki.org/wiki/Skin:Valkyrie",
+	"descriptionmsg": "valkyrie-skin-desc",
+	"namemsg": "skinname-valkyrie",
 	"license-name": "GPL-2.0-or-later",
 	"type": "skin",
 	"requires": {
 		"MediaWiki": ">= 1.29.0"
 	},
 	"ConfigRegistry": {
-		"vector": "GlobalVarConfig::newInstance"
+		"valkyrie": "GlobalVarConfig::newInstance"
 	},
 	"ValidSkinNames": {
-		"vector": "Vector"
+		"valkyrie": "Valkyrie"
 	},
 	"MessagesDirs": {
-		"Vector": [
+		"Valkyrie": [
 			"i18n"
 		]
 	},
 	"AutoloadClasses": {
-		"Vector\\Hooks": "includes/Hooks.php",
-		"SkinVector": "includes/SkinVector.php",
-		"VectorTemplate": "includes/VectorTemplate.php",
-		"Vector\\ResourceLoaderLessModule": "includes/ResourceLoaderLessModule.php"
+		"Valkyrie\\Hooks": "includes/Hooks.php",
+		"SkinValkyrie": "includes/SkinValkyrie.php",
+		"ValkyrieTemplate": "includes/ValkyrieTemplate.php",
+		"Valkyrie\\ResourceLoaderLessModule": "includes/ResourceLoaderLessModule.php"
 	},
 	"Hooks": {
 		"BeforePageDisplayMobile": [
-			"Vector\\Hooks::onBeforePageDisplayMobile"
+			"Valkyrie\\Hooks::onBeforePageDisplayMobile"
 		]
 	},
-	"@note": "When modifying skins.vector.styles definition, make sure the installer still works",
+	"@note": "When modifying skins.valkyrie.styles definition, make sure the installer still works",
 	"ResourceModules": {
-		"skins.vector.styles": {
-			"class": "Vector\\ResourceLoaderLessModule",
+		"skins.valkyrie.styles": {
+			"class": "Valkyrie\\ResourceLoaderLessModule",
 			"targets": [ "desktop", "mobile" ],
 			"styles": {
 				"screen.less": {
@@ -51,16 +51,16 @@
 			}
 		},
 
-		"skins.vector.styles.responsive": {
+		"skins.valkyrie.styles.responsive": {
 			"targets": [ "desktop", "mobile" ],
 			"styles": [
 				"responsive.less"
 			]
 		},
-		"skins.vector.js": {
+		"skins.valkyrie.js": {
 			"scripts": [
 				"collapsibleTabs.js",
-				"vector.js"
+				"valkyrie.js"
 			],
 			"dependencies": [
 				"mediawiki.util",
@@ -70,10 +70,10 @@
 	},
 	"ResourceFileModulePaths": {
 		"localBasePath": "",
-		"remoteSkinPath": "Vector"
+		"remoteSkinPath": "Valkyrie"
 	},
 	"ResourceModuleSkinStyles": {
-		"vector": {
+		"valkyrie": {
 			"jquery.tipsy": "skinStyles/jquery.tipsy.less",
 			"jquery.ui.core": [
 				"skinStyles/jquery.ui/jquery.ui.core.css",
@@ -99,10 +99,10 @@
 		}
 	},
 	"config": {
-		"VectorUseSimpleSearch": true,
-		"VectorUseIconWatch": true,
-		"VectorResponsive": false,
-		"VectorPrintLogo": false
+		"ValkyrieUseSimpleSearch": true,
+		"ValkyrieUseIconWatch": true,
+		"ValkyrieResponsive": false,
+		"ValkyriePrintLogo": false
 	},
 	"manifest_version": 1
 }

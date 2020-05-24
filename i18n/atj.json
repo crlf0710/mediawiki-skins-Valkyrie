@@ -6,13 +6,13 @@
 			"Jean-paul echaquan"
 		]
 	},
-	"vector-action-addsection": "Acotcicta",
-	"vector-action-delete": "Wepina",
-	"vector-action-move": "Erikam",
-	"vector-view-create": "Ocita",
-	"vector-view-edit": "Meckotcita",
-	"vector-view-history": "E pe isparik",
-	"vector-view-view": "Tapwatcike",
-	"vector-view-viewsource": "Nte ici nta kanawapata e otciparik",
-	"vector-more-actions": "Erikam"
+	"valkyrie-action-addsection": "Acotcicta",
+	"valkyrie-action-delete": "Wepina",
+	"valkyrie-action-move": "Erikam",
+	"valkyrie-view-create": "Ocita",
+	"valkyrie-view-edit": "Meckotcita",
+	"valkyrie-view-history": "E pe isparik",
+	"valkyrie-view-view": "Tapwatcike",
+	"valkyrie-view-viewsource": "Nte ici nta kanawapata e otciparik",
+	"valkyrie-more-actions": "Erikam"
 }

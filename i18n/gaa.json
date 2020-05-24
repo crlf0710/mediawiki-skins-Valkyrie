@@ -7,13 +7,13 @@
 			"Amire80"
 		]
 	},
-	"vector-action-addsection": "Kɛ mlijaa yitso afata he",
-	"vector-action-delete": "Jiemɔ",
-	"vector-action-move": "Tsi",
-	"vector-action-protect": "Yibaamɔ",
-	"vector-view-create": "Bɔɔ",
-	"vector-view-edit": "Tsakemɔ",
-	"vector-view-history": "Kwɛmɔ nibii ni eho",
-	"vector-view-view": "Kanemɔ",
-	"vector-more-actions": "Pii"
+	"valkyrie-action-addsection": "Kɛ mlijaa yitso afata he",
+	"valkyrie-action-delete": "Jiemɔ",
+	"valkyrie-action-move": "Tsi",
+	"valkyrie-action-protect": "Yibaamɔ",
+	"valkyrie-view-create": "Bɔɔ",
+	"valkyrie-view-edit": "Tsakemɔ",
+	"valkyrie-view-history": "Kwɛmɔ nibii ni eho",
+	"valkyrie-view-view": "Kanemɔ",
+	"valkyrie-more-actions": "Pii"
 }

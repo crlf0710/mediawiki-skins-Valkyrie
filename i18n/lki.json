@@ -6,17 +6,17 @@
 			"Lakzon"
 		]
 	},
-	"vector-skin-desc": "نسخه مدرن منوبوک با نگاه تازه و بهبود قابلیت استفاده",
-	"vector-action-addsection": "افزودن بۀخش",
-	"vector-action-delete": "حۀذف کردن/پاک کردن",
-	"vector-action-move": "جاوواز کرِدِن",
-	"vector-action-protect": "پروژۀ",
-	"vector-action-undelete": "گلآدائن حةذف/واگردانی حذف",
-	"vector-action-unprotect": "گؤەڕانن/تغییر سطح حفاظت",
-	"vector-view-create": "دؤِرس کردن/سازین",
-	"vector-view-edit": "دەسکاری",
-	"vector-view-history": "سئرکردن تاریخچۀ-ویرگار",
-	"vector-view-view": "خووەنن",
-	"vector-view-viewsource": "بنچەک(منبع) بۊن(سەیرکە)",
-	"vector-more-actions": "ویشتر/فرۀتر"
+	"valkyrie-skin-desc": "نسخه مدرن منوبوک با نگاه تازه و بهبود قابلیت استفاده",
+	"valkyrie-action-addsection": "افزودن بۀخش",
+	"valkyrie-action-delete": "حۀذف کردن/پاک کردن",
+	"valkyrie-action-move": "جاوواز کرِدِن",
+	"valkyrie-action-protect": "پروژۀ",
+	"valkyrie-action-undelete": "گلآدائن حةذف/واگردانی حذف",
+	"valkyrie-action-unprotect": "گؤەڕانن/تغییر سطح حفاظت",
+	"valkyrie-view-create": "دؤِرس کردن/سازین",
+	"valkyrie-view-edit": "دەسکاری",
+	"valkyrie-view-history": "سئرکردن تاریخچۀ-ویرگار",
+	"valkyrie-view-view": "خووەنن",
+	"valkyrie-view-viewsource": "بنچەک(منبع) بۊن(سەیرکە)",
+	"valkyrie-more-actions": "ویشتر/فرۀتر"
 }

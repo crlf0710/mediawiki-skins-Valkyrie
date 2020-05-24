@@ -6,16 +6,16 @@
 			"GeekEmad"
 		]
 	},
-	"vector-action-addsection": "أضف موضوعا",
-	"vector-action-delete": "احذف",
-	"vector-action-move": "انقل",
-	"vector-action-protect": "احم",
-	"vector-action-undelete": "استرجع الحذف",
-	"vector-action-unprotect": "غير الحماية",
-	"vector-view-create": "أنشئ",
-	"vector-view-edit": "Baddel",
-	"vector-view-history": "Warri listorik",
-	"vector-view-view": "Aqrê",
-	"vector-view-viewsource": "اعرض المصدر",
-	"vector-more-actions": "Akŧar"
+	"valkyrie-action-addsection": "أضف موضوعا",
+	"valkyrie-action-delete": "احذف",
+	"valkyrie-action-move": "انقل",
+	"valkyrie-action-protect": "احم",
+	"valkyrie-action-undelete": "استرجع الحذف",
+	"valkyrie-action-unprotect": "غير الحماية",
+	"valkyrie-view-create": "أنشئ",
+	"valkyrie-view-edit": "Baddel",
+	"valkyrie-view-history": "Warri listorik",
+	"valkyrie-view-view": "Aqrê",
+	"valkyrie-view-viewsource": "اعرض المصدر",
+	"valkyrie-more-actions": "Akŧar"
 }

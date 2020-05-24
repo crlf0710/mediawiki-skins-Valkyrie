@@ -6,16 +6,16 @@
 			"GnuDoyng"
 		]
 	},
-	"vector-action-addsection": "Gă uâ-dà̤",
-	"vector-action-delete": "刪掉咯",
-	"vector-action-move": "移動",
-	"vector-action-protect": "保護",
-	"vector-action-undelete": "取消刪除",
-	"vector-action-unprotect": "改變保護",
-	"vector-view-create": "Cháung-gióng",
-	"vector-view-edit": "Siŭ-gāi",
-	"vector-view-history": "Káng lĭk-sṳ̄",
-	"vector-view-view": "Tĕ̤k",
-	"vector-view-viewsource": "看源代碼",
-	"vector-more-actions": "Gó-sâ̤"
+	"valkyrie-action-addsection": "Gă uâ-dà̤",
+	"valkyrie-action-delete": "刪掉咯",
+	"valkyrie-action-move": "移動",
+	"valkyrie-action-protect": "保護",
+	"valkyrie-action-undelete": "取消刪除",
+	"valkyrie-action-unprotect": "改變保護",
+	"valkyrie-view-create": "Cháung-gióng",
+	"valkyrie-view-edit": "Siŭ-gāi",
+	"valkyrie-view-history": "Káng lĭk-sṳ̄",
+	"valkyrie-view-view": "Tĕ̤k",
+	"valkyrie-view-viewsource": "看源代碼",
+	"valkyrie-more-actions": "Gó-sâ̤"
 }

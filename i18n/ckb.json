@@ -6,17 +6,17 @@
 			"Sarchia"
 		]
 	},
-	"skinname-vector": "ڤێکتۆر",
-	"vector-action-addsection": "بابەت دابنێ",
-	"vector-action-delete": "سڕینەوە",
-	"vector-action-move": "گواستنەوە",
-	"vector-action-protect": "پاراستن",
-	"vector-action-undelete": "سڕینەوە بگەڕێنەوە",
-	"vector-action-unprotect": "پاراستن بگۆڕە",
-	"vector-view-create": "دروستکردن",
-	"vector-view-edit": "دەستکاری",
-	"vector-view-history": "مێژوو",
-	"vector-view-view": "خوێندنەوە",
-	"vector-view-viewsource": "سەرچاوەکەی ببینە",
-	"vector-more-actions": "زیاتر"
+	"skinname-valkyrie": "ڤێکتۆر",
+	"valkyrie-action-addsection": "بابەت دابنێ",
+	"valkyrie-action-delete": "سڕینەوە",
+	"valkyrie-action-move": "گواستنەوە",
+	"valkyrie-action-protect": "پاراستن",
+	"valkyrie-action-undelete": "سڕینەوە بگەڕێنەوە",
+	"valkyrie-action-unprotect": "پاراستن بگۆڕە",
+	"valkyrie-view-create": "دروستکردن",
+	"valkyrie-view-edit": "دەستکاری",
+	"valkyrie-view-history": "مێژوو",
+	"valkyrie-view-view": "خوێندنەوە",
+	"valkyrie-view-viewsource": "سەرچاوەکەی ببینە",
+	"valkyrie-more-actions": "زیاتر"
 }

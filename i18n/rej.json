@@ -4,13 +4,13 @@
 			"MFikriansori"
 		]
 	},
-	"vector-action-addsection": "Tambêak dik nêbahas",
-	"vector-action-delete": "Apus",
-	"vector-action-move": "Aliak",
-	"vector-action-protect": "Lindung",
-	"vector-view-create": "Nêa",
-	"vector-view-edit": "Ubêak",
-	"vector-view-history": "Kêliak riwayat",
-	"vector-view-view": "Baco",
-	"vector-more-actions": "Igai"
+	"valkyrie-action-addsection": "Tambêak dik nêbahas",
+	"valkyrie-action-delete": "Apus",
+	"valkyrie-action-move": "Aliak",
+	"valkyrie-action-protect": "Lindung",
+	"valkyrie-view-create": "Nêa",
+	"valkyrie-view-edit": "Ubêak",
+	"valkyrie-view-history": "Kêliak riwayat",
+	"valkyrie-view-view": "Baco",
+	"valkyrie-more-actions": "Igai"
 }

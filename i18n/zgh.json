@@ -7,13 +7,13 @@
 			"Aslmad mohamed belarhzali"
 		]
 	},
-	"vector-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
-	"vector-action-delete": "ⴽⴽⵙ",
-	"vector-action-move": "ⵙⵎⴰⵜⵜⵉ",
-	"vector-action-protect": "ⵢⴰⵔⴰⵢ",
-	"vector-view-create": "ⵙⵏⴼⵍⵓⵍ",
-	"vector-view-edit": "ⵙⵏⴼⵍ",
-	"vector-view-history": "ⵙⴽⵏ ⴰⵎⵣⵔⴰⵢ",
-	"vector-view-view": "ⵖⵔ",
-	"vector-more-actions": "ⵓⴳⴳⴰⵔ"
+	"valkyrie-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"valkyrie-action-delete": "ⴽⴽⵙ",
+	"valkyrie-action-move": "ⵙⵎⴰⵜⵜⵉ",
+	"valkyrie-action-protect": "ⵢⴰⵔⴰⵢ",
+	"valkyrie-view-create": "ⵙⵏⴼⵍⵓⵍ",
+	"valkyrie-view-edit": "ⵙⵏⴼⵍ",
+	"valkyrie-view-history": "ⵙⴽⵏ ⴰⵎⵣⵔⴰⵢ",
+	"valkyrie-view-view": "ⵖⵔ",
+	"valkyrie-more-actions": "ⵓⴳⴳⴰⵔ"
 }

@@ -4,10 +4,10 @@
 			"R12ntech"
 		]
 	},
-	"vector-action-delete": "ᎧᎵ ᎠᏍᎪᎸᏛᎯ",
-	"vector-action-move": "ᎯᎲᎾ",
-	"vector-action-protect": "ᎠᏓᎦᏎᏍᏙᏗ",
-	"vector-view-create": "ᎪᏢᏗ",
-	"vector-view-edit": "ᎦᏁᏟᏴᏓ ᎰᏪᎸᎦ",
-	"vector-view-view": "ᎠᎪᎵᏰᏗᏊ"
+	"valkyrie-action-delete": "ᎧᎵ ᎠᏍᎪᎸᏛᎯ",
+	"valkyrie-action-move": "ᎯᎲᎾ",
+	"valkyrie-action-protect": "ᎠᏓᎦᏎᏍᏙᏗ",
+	"valkyrie-view-create": "ᎪᏢᏗ",
+	"valkyrie-view-edit": "ᎦᏁᏟᏴᏓ ᎰᏪᎸᎦ",
+	"valkyrie-view-view": "ᎠᎪᎵᏰᏗᏊ"
 }

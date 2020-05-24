@@ -4,11 +4,11 @@
 			"Csisc"
 		]
 	},
-	"vector-action-addsection": "Zīd mawḑūģ",
-	"vector-action-move": "Ḩawwil",
-	"vector-view-create": "Aģmil",
-	"vector-view-edit": "Beddil",
-	"vector-view-history": "Cūf Tērīx il-milaf",
-	"vector-view-view": "Aqrē",
-	"vector-more-actions": "Ekŧer"
+	"valkyrie-action-addsection": "Zīd mawḑūģ",
+	"valkyrie-action-move": "Ḩawwil",
+	"valkyrie-view-create": "Aģmil",
+	"valkyrie-view-edit": "Beddil",
+	"valkyrie-view-history": "Cūf Tērīx il-milaf",
+	"valkyrie-view-view": "Aqrē",
+	"valkyrie-more-actions": "Ekŧer"
 }

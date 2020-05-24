@@ -5,7 +5,7 @@
  */
 
 /* Namespaces and Views */
-.vectorTabs {
+.valkyrieTabs {
 	// Tab separator: Outer start border (left in LTR) of tab row.
 	background-position: left bottom;
 	float: left;
@@ -93,7 +93,7 @@
 }
 
 /* Variants and Actions */
-.vectorMenu {
+.valkyrieMenu {
 	direction: ltr;
 	float: left;
 	cursor: pointer;
@@ -165,7 +165,7 @@
 
 	// This is in a separate block, so that browsers supporting :hover but not :checked still apply the rule above
 	// Support: IE8
-	.vectorMenuCheckbox:checked ~ .menu {
+	.valkyrieMenuCheckbox:checked ~ .menu {
 		opacity: 1;
 		visibility: visible;
 	}
@@ -193,7 +193,7 @@
 	}
 }
 
-#mw-head .vectorMenu h3 {
+#mw-head .valkyrieMenu h3 {
 	// Tab separator: Outer end (right in LTR) border of "Actions" menu.
 	background-position: right bottom;
 	float: left;
@@ -201,19 +201,19 @@
 	height: 2.5em;
 	margin: 0 -@border-width-base 0 0;
 	// `padding-right` >= `1px` effectively moves the "background border" outside of the element to
-	// act like a real border. It is necessary for `.vectorMenu .menu` dropdown to align well.
+	// act like a real border. It is necessary for `.valkyrieMenu .menu` dropdown to align well.
 	// 0.5em equals `8px` at computed `font-size` of `14px` as visually harmonically with
-	// `padding-left` in `.vectorMenu h3 span`
+	// `padding-left` in `.valkyrieMenu h3 span`
 	padding: 0 0.5em 0 0;
 }
 
 // Tab Separators
-// `.vectorTabs`: Outer start border (left in LTR) of tab row.
-// `.vectorTabs span`: Border between tabs and outer end (right in LTR) border.
-// `#mw-head .vectorMenu h3`: // Outer end (right in LTR) border of "Actions" menu.
-.vectorTabs,
-.vectorTabs span,
-#mw-head .vectorMenu h3 {
+// `.valkyrieTabs`: Outer start border (left in LTR) of tab row.
+// `.valkyrieTabs span`: Border between tabs and outer end (right in LTR) border.
+// `#mw-head .valkyrieMenu h3`: // Outer end (right in LTR) border of "Actions" menu.
+.valkyrieTabs,
+.valkyrieTabs span,
+#mw-head .valkyrieMenu h3 {
 	background-image: url( images/tab-separator.png );
 	background-image: linear-gradient( to bottom, rgba( 167, 215, 249, 0 ) 0, @border-color-content 100% );
 	background-repeat: no-repeat;
@@ -222,7 +222,7 @@
 }
 
 // Invisible checkbox covering the dropdown menu handle
-.vectorMenuCheckbox {
+.valkyrieMenuCheckbox {
 	cursor: pointer;
 	position: absolute;
 	top: 0;

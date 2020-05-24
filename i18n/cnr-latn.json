@@ -4,12 +4,12 @@
 			"Bellatrix10"
 		]
 	},
-	"vector-action-addsection": "Dodaj temu",
-	"vector-action-delete": "Izbriši",
-	"vector-action-move": "Premjesti",
-	"vector-action-protect": "Zaštiti",
-	"vector-view-edit": "Uredi",
-	"vector-view-history": "Pregledaj istoriju",
-	"vector-view-view": "Čitaj",
-	"vector-more-actions": "Više"
+	"valkyrie-action-addsection": "Dodaj temu",
+	"valkyrie-action-delete": "Izbriši",
+	"valkyrie-action-move": "Premjesti",
+	"valkyrie-action-protect": "Zaštiti",
+	"valkyrie-view-edit": "Uredi",
+	"valkyrie-view-history": "Pregledaj istoriju",
+	"valkyrie-view-view": "Čitaj",
+	"valkyrie-more-actions": "Više"
 }

@@ -8,13 +8,13 @@
 			"Cem Rize"
 		]
 	},
-	"vector-action-addsection": "Konu ekle",
-	"vector-action-delete": "Jili",
-	"vector-action-move": "Tori",
-	"vector-action-protect": "İçvi",
-	"vector-view-create": "dokʼidi",
-	"vector-view-edit": "Doktiri",
-	"vector-view-history": "Dosyaşi tarixi",
-	"vector-view-view": "İǩitxi",
-	"vector-more-actions": "Daha fazla"
+	"valkyrie-action-addsection": "Konu ekle",
+	"valkyrie-action-delete": "Jili",
+	"valkyrie-action-move": "Tori",
+	"valkyrie-action-protect": "İçvi",
+	"valkyrie-view-create": "dokʼidi",
+	"valkyrie-view-edit": "Doktiri",
+	"valkyrie-view-history": "Dosyaşi tarixi",
+	"valkyrie-view-view": "İǩitxi",
+	"valkyrie-more-actions": "Daha fazla"
 }

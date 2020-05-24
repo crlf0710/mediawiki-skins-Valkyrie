@@ -1,5 +1,5 @@
 /**
- * Collapsible tabs for Vector
+ * Collapsible tabs for Valkyrie
  */
 /* eslint-disable no-jquery/no-global-selector */
 $( function () {

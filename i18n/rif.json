@@ -5,11 +5,11 @@
 			"Amara-Amaziɣ"
 		]
 	},
-	"vector-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
-	"vector-action-delete": "ⴽⴽⵙ",
-	"vector-action-move": "ⵙⵎⵓⵜⵜⵉ",
-	"vector-view-create": "ⵙⵏⵓⵍⴼⵓ",
-	"vector-view-edit": "ⵙⵏⴼⵍ",
-	"vector-view-history": "ⴰⵎⵣⵔⵓⵢ",
-	"vector-view-view": "ⵖⵔ"
+	"valkyrie-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"valkyrie-action-delete": "ⴽⴽⵙ",
+	"valkyrie-action-move": "ⵙⵎⵓⵜⵜⵉ",
+	"valkyrie-view-create": "ⵙⵏⵓⵍⴼⵓ",
+	"valkyrie-view-edit": "ⵙⵏⴼⵍ",
+	"valkyrie-view-history": "ⴰⵎⵣⵔⵓⵢ",
+	"valkyrie-view-view": "ⵖⵔ"
 }
