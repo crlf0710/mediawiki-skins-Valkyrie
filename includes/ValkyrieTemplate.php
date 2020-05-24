@@ -115,6 +115,7 @@ class ValkyrieTemplate extends BaseTemplate {
 					?>"<?php
 					echo Xml::expandAttributes( Linker::tooltipAndAccesskeyAttribs( 'p-logo' ) )
 					?>></a></div>
+				<div id="my-logo">logo</div>
 				<?php $this->renderPortals( $this->data['sidebar'] ); ?>
 			</div>
 		</div>
